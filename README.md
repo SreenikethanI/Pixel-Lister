@@ -1,15 +1,20 @@
 # 👾📃 Pixel Lister
 Lists the active/bright/high/white pixels in a given image.
 
-To use the app, you can open this link: [https://sreenikethani.github.io/PixelLister/](https://sreenikethani.github.io/PixelLister/)
+## Using the app
 
-Alternatively, you can clone this repo
+You can either open the link
+[https://sreenikethani.github.io/PixelLister/](https://sreenikethani.github.io/PixelLister/)
+or clone this repo and run a server on the root folder.
+
+This project does not use any frameworks or anything fancy like that, just plain
+old HTML, JS, CSS 😅
 
 ## What?
 This app takes an image from you, and gives you the list of coordinates of those
 pixels which are white in color / bright.
 
-## Features/Capabilities
+### Features/Capabilities
 - Dithering using Floyd-Steinberg algorithm, or just a threshold filter
 - Inverting image before processing, if the image has more white pixels than black
 - Restrict output to a fixed **number of pixels** rather than fixed dimensions
@@ -31,4 +36,4 @@ dithering or just a simple threshold filter)
 5. This list can be copied or exported to a CSV file, TSV file, or text file.
 
 ## Author
-This project is conceptualized and brought to life by Sreenikethan Iyer.
+This project has been conceptualized and brought to life by Sreenikethan Iyer.

@@ -49,7 +49,7 @@ You can use the resulting CSV file to create an X-Y Scatter Plot, and now you
 can troll your friends (if any) with an unexpected image.
 
 ---
-## Author
+## 👨‍💻 Author
 This project has been conceptualized and brought to life by Sreenikethan Iyer.
 
 The package [Color Thief](https://github.com/lokesh/color-thief) is used to
